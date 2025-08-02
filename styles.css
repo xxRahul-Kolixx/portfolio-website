@@ -58,3 +58,33 @@ footer {
   color: #666;
 }
 
+/* Responsive design for screens <= 768px */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav {
+    margin-top: 10px;
+  }
+
+  nav a {
+    margin: 5px 10px 0 0;
+    display: inline-block;
+  }
+
+  body {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+}
+
+
