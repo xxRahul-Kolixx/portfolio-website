@@ -1,9 +1,10 @@
-# 👨‍💻 Rahul's Portfolio Website
+# Rahul's Portfolio Website
 
 A clean, responsive personal portfolio website built using **HTML** and **CSS** to showcase projects, skills, and contact information.
 
+---
 
-## 📁 Features
+## Features
 
 - Responsive layout using **Flexbox**
 - Semantic HTML5 structure
@@ -13,7 +14,7 @@ A clean, responsive personal portfolio website built using **HTML** and **CSS** 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Media Queries)
